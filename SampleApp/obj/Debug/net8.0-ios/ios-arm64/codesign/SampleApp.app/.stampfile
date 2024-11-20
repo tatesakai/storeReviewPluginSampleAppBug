@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign 52F8B57AF940509398735AE5FF3A813AA0B29E26 --entitlements /Users/Tate.Sakai/Projects/SampleApp/SampleApp/obj/Debug/net8.0-ios/ios-arm64/Entitlements.xcent /Users/Tate.Sakai/Projects/SampleApp/SampleApp/bin/Debug/net8.0-ios/ios-arm64/SampleApp.app

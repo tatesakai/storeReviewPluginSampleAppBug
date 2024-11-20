@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="SampleApp.app/SampleApp">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>SampleApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>SampleApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/Tate.Sakai/Projects/SampleApp/SampleApp/obj/Debug/net8.0-ios/ios-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>SampleApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/Tate.Sakai/Projects/SampleApp/SampleApp</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
